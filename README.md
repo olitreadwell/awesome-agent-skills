@@ -67,7 +67,8 @@ The most contributed Agent Skills repository, built and maintained together with
 | [Kim Barrett (Advertising)](#advertising-skills-by-kim-barrett) | [Apollo GraphQL](#skills-by-apollo-graphql) | [Auth0](#skills-by-auth0) | [Brave](#skills-by-brave) |
 | [Browserbase](#skills-by-browserbase) | [CodeRabbit](#skills-by-coderabbit) | [Coinbase](#skills-by-coinbase) | [Datadog Labs](#skills-by-datadog-labs) |
 | [Firebase](#skills-by-firebase) | [Flutter](#skills-by-flutter) | [Venice.ai](#skills-by-veniceai) | [Community](#community-skills) |
-| [Quality Standards](#skill-quality-standards) |  |  |  |
+| [Redis](#skills-by-redis) | [Quality Standards](#skill-quality-standards) |  |  |
+
 
 
 
@@ -1223,6 +1224,13 @@ Official MongoDB Agent Skills for agentic workflows — connection management, s
 - **[mongodb/mongodb-natural-language-querying](https://officialskills.sh/mongodb/skills/mongodb-natural-language-querying)** - Translate natural language into MongoDB queries and aggregation pipelines
 - **[mongodb/mongodb-query-optimizer](https://officialskills.sh/mongodb/skills/mongodb-query-optimizer)** - Analyze and optimize query performance using Atlas Performance Advisor
 - **[mongodb/mongodb-search-and-ai](https://officialskills.sh/mongodb/skills/mongodb-search-and-ai)** - Implement Atlas Search and AI-powered recommendations with vector search
+
+</details>
+
+<details open>
+<summary><h3 style="display:inline">Skills by Redis</h3></summary>
+
+- **[redis/redis-development](https://github.com/redis/agent-skills/tree/main/skills/redis-development)** - Redis development best practices — data structures, query engine, vector search, caching, and performance optimization.
 
 </details>
 
